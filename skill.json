@@ -1,0 +1,11 @@
+{
+  "name": "genpark-audio-visual-streaming-chunk-and-jitter-buffer-skill",
+  "version": "1.0.0",
+  "description": "Buffers, reorders, and deduplicates fragmented real-time audio and video chunks with sequence reordering for multimodal agents",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
